@@ -1,1 +1,6 @@
 1. Analisis Predictivos
+https://blog.hubspot.es/marketing/que-es-analisis-predictivo
+
+2. Métodos:
+
+https://bookdown.org/content/2274/metodos-de-clasificacion.html
